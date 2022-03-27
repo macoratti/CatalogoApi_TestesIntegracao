@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatalogoApi", "CatalogoApi\CatalogoApi.csproj", "{66CBD2BA-EE90-490D-B980-45FB8B06BEEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogoAPI.Tests", "CatalogoAPI.Tests\CatalogoAPI.Tests.csproj", "{3CCEA820-A92F-4057-B25B-0450DD78841B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66CBD2BA-EE90-490D-B980-45FB8B06BEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CBD2BA-EE90-490D-B980-45FB8B06BEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CBD2BA-EE90-490D-B980-45FB8B06BEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CBD2BA-EE90-490D-B980-45FB8B06BEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CCEA820-A92F-4057-B25B-0450DD78841B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CCEA820-A92F-4057-B25B-0450DD78841B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CCEA820-A92F-4057-B25B-0450DD78841B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CCEA820-A92F-4057-B25B-0450DD78841B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64C8AD6F-4EA4-44AA-940E-5BD59EB2A86A}
+	EndGlobalSection
+EndGlobal
